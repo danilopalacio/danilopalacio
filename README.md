@@ -1,4 +1,4 @@
-###        Olá, Eu sou Danilo Palacio 🐱‍💻👋  <img align="left" alt="" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/j0uWJ3loBk781R43ZR/giphy.gif">
+###        Olá, Eu sou Danilo Palacio 🐱‍💻👋  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/j0uWJ3loBk781R43ZR/giphy.gif">
 
  🐱‍🚀 Cursando:<br><br>
     Análise e Desenvolvimento de Sistemas - Uninter 💻<br>
